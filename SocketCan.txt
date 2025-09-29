@@ -1,0 +1,21 @@
+# Установка скорости (например, 500 кбит/с)
+sudo ip link set can0 type can bitrate 500000
+
+sudo ip link set can0 type can bitrate 1000000
+
+# Включение интерфейса
+sudo ip link set up can0
+
+# Выключение интерфейса
+sudo ip link set down can0
+
+cansend can0 123#AABBCCDD
+
+candump can0
+
+ip -details -statistics link show can0
+
+
+
+
+

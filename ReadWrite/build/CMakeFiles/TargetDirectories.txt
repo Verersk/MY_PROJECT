@@ -1,0 +1,3 @@
+/home/vlad/Test_Task/ReadWrite/build/CMakeFiles/threaded_io.dir
+/home/vlad/Test_Task/ReadWrite/build/CMakeFiles/edit_cache.dir
+/home/vlad/Test_Task/ReadWrite/build/CMakeFiles/rebuild_cache.dir

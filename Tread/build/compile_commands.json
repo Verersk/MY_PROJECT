@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/vlad/Test_Task/Tread/build",
+  "command": "g++ -I/home/vlad/Test_Task/Tread/lib -g -std=gnu++17 -o CMakeFiles/threaded_io.dir/src/main.cpp.o -c /home/vlad/Test_Task/Tread/src/main.cpp",
+  "file": "/home/vlad/Test_Task/Tread/src/main.cpp",
+  "output": "CMakeFiles/threaded_io.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/vlad/Test_Task/Tread/build",
+  "command": "g++ -I/home/vlad/Test_Task/Tread/lib -g -std=gnu++17 -o CMakeFiles/threaded_io.dir/lib/tread.cpp.o -c /home/vlad/Test_Task/Tread/lib/tread.cpp",
+  "file": "/home/vlad/Test_Task/Tread/lib/tread.cpp",
+  "output": "CMakeFiles/threaded_io.dir/lib/tread.cpp.o"
+}
+]
